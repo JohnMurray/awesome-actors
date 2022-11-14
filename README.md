@@ -22,6 +22,14 @@ below for a deeper dive.
   [should_not_use]:   overview/when-should-i-not-use-actors.md
 
 
+# Actor Libraries
+
+Sold on the idea of actors, but unsure where to start? Pick your favoriate implementation or
+langauge below and get to hacking.
+
+
+# Videos & Podcasts
+
 # Advanced Topics
 
 
