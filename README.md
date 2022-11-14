@@ -12,8 +12,9 @@ asked questions.
   + [When should I use actors?][should_use]
   + [When should I __not__ use actors?][should_not_use]
 
-Interested, but want more? Checkout the [__Advanced Topics__](#advanced-topics) section
-below for a deeper dive.
+Interested, but want more? Checkout the [__Videos & Podcasts__](#videos--podcasts) section for
+content or, if you're feeling particularly adventurous you can try out the
+[__Advanced Topics__](#advanced-topics) section for a deeper dive.
 
 
   [what_is_an_actor]: overview/what-is-an-actor.md
@@ -32,6 +33,12 @@ langauge below and get to hacking.
 
 # Advanced Topics
 
+
+<br />
+<br />
+<br />
+<br />
+----------
 
 ## TODO
 
