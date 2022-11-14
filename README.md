@@ -10,7 +10,7 @@ An "awesome list" of actor model resources
   + [When should I __not__ use actors?](#)
 
 
-  [what_is_an_actor]: blob/main/overview/what-is-an-actor.md
+  [what_is_an_actor]: overview/what-is-an-actor.md
 
 ## TODO
 
