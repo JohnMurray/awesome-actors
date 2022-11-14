@@ -2,6 +2,13 @@
 
 An "awesome list" of actor model resources
 
+# Overview
+
+  + [What is an actor?](#)
+  + [Primary benefits of an actor system](#)
+  + [When should I use actors?](#)
+  + [When should I __not__ use actors?](#)
+
 
 ## TODO
 
