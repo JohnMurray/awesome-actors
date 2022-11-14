@@ -4,11 +4,13 @@ An "awesome list" of actor model resources
 
 # Overview
 
-  + [What is an actor?](#)
+  + [What is an actor?][what_is_an_actor]
   + [Primary benefits of an actor system](#)
   + [When should I use actors?](#)
   + [When should I __not__ use actors?](#)
 
+
+  [what_is_an_actor]: blob/main/overview/what-is-an-actor.md
 
 ## TODO
 
