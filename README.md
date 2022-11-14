@@ -1,4 +1,4 @@
-# Awesome Actors
+# Actors [![Awesome](https://img.shields.io/badge/__-awesome-blue)](https://github.com/JohnMurray/awesome-actors)
 
 An "awesome list" of actor model resources
 
