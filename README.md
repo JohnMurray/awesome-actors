@@ -5,12 +5,15 @@ An "awesome list" of actor model resources
 # Overview
 
   + [What is an actor?][what_is_an_actor]
-  + [Primary benefits of an actor system](#)
-  + [When should I use actors?](#)
-  + [When should I __not__ use actors?](#)
+  + [Primary benefits of an actor system][primary_benefits]
+  + [When should I use actors?][should_use]
+  + [When should I __not__ use actors?][should_not_use]
 
 
   [what_is_an_actor]: overview/what-is-an-actor.md
+  [primary_benefits]: overview/primary-benefits-of-an-actor-system.md
+  [should_use]:       overview/when-should-i-use-actors.md
+  [should_not_use]:   overview/when-should-i-not-use-actors.md
 
 ## TODO
 
